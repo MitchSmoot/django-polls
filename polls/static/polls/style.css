@@ -6,3 +6,9 @@ body {
 li a {
   color: green;
 }
+
+.container {
+  margin: 16px;
+  padding: 8px;
+  background-color: #333;
+}
